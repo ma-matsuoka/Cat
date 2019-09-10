@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Matsuoka Masahiro/Cat'
+  s.homepage         = 'https://github.com/ma-matsuoka/Cat'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Matsuoka Masahiro' => 'ma-matsuoka@tgl.co.jp' }
-  s.source           = { :git => 'https://github.com/Matsuoka Masahiro/Cat.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ma-matsuoka/Cat.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
